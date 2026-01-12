@@ -5,11 +5,6 @@ body {
   font-family: sans-serif;
 }
 
-h1 { 
-  color: white;
-  background-color: rgb(10, 17, 114);
-  padding: 10px;
-  border: 2px solid black;
-  display: inline-block;
-  margin: 0 auto;
+h4 {
+  color: rgb(10, 17, 114)
 }
