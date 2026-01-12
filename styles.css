@@ -2,7 +2,7 @@
 
 /* Use CSS selectors and rules to style your portfolio page */
 body {
-  font-family: sans-serif;
+  font-family: 'Times New Roman', Times, serif;
   background-color: aliceblue;
 }
 
@@ -15,7 +15,8 @@ body {
 }
 
 h4 {
-  color: rgb(10, 17, 114)
+  color: rgb(10, 17, 114);
+  border-bottom: 2px solid rgb(10, 17, 114);
 }
 
 .tagline {
