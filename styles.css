@@ -4,3 +4,11 @@
 body {
   font-family: sans-serif;
 }
+
+h1 {
+    color: #FFFFFF;
+    background-color: #0a1172;
+    padding: 10px; 
+    border: 2px solid #ff0000; 
+    display: inline-block; 
+  }
