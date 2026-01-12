@@ -3,10 +3,11 @@
 /* Use CSS selectors and rules to style your portfolio page */
 body {
   font-family: sans-serif;
+  background-color: aliceblue;
 }
 
 #top {
-  color: white; 
+  color: aliceblue; 
   background-color: rgb(10, 17, 114); 
   padding: 10px; 
   border: 2px solid black; 
@@ -15,4 +16,8 @@ body {
 
 h4 {
   color: rgb(10, 17, 114)
+}
+
+.tagline {
+  font-style: italic;
 }
